@@ -6,6 +6,6 @@ else :
     x = 0
 
 def somefun (a b):
-    a  b
+    a + b
 
 somefun (x x)
